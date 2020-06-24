@@ -1,0 +1,134 @@
+body {
+    background-image: url(background-cadUser.png);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #3a3a3a;
+}
+
+label {
+    font: bold 17pt Avenir LT Std;
+    color: rgba(26, 25, 25, 0.89);
+    text-align: right;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+section#fundoTabela{
+    background-color: white;
+    padding: 10px;
+    height: 850px;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+p{
+    font: bold 23pt Avenir LT Std;
+    margin-top: 5px;
+    margin-left: 200px;
+    text-align: right;
+}
+
+hr {
+    margin-top: -20px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    width: 350px;
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    outline: 0;
+    font-size: 1.3rem;
+    width: 200px;
+    margin-left: 10px;
+}
+
+#nome{
+    margin-left: 128px;
+}
+
+#sexo{
+    margin-left: 140px;
+}
+
+#cpf{
+    margin-left: 148px;
+}
+
+#rg{
+    margin-left: 160px;
+}
+
+#ec{
+    margin-left: 70px;
+}
+
+#tel{
+    margin-left: 105px;
+}
+
+#dn{
+    margin-left: 55px;
+}
+
+#email{
+    margin-left: 138px;
+}
+
+#log{
+    margin-left: 70px;
+}
+
+#n{
+    margin-left: 50px;
+}
+
+#cep{
+    margin-left: 148px;
+}
+
+#cid{
+    margin-left: 120px;
+}
+
+#uf{
+    margin-left: 165px;
+}
+
+
+a#lista{
+    font: bold 17pt Avenir LT Std;
+    margin-top: -50px;
+    margin-left: 216px;
+    text-decoration: none;
+    color: #102f36;
+}
+
+input#salvar{
+    font: bold 22pt Avenir LT Std;
+    cursor: pointer;
+    margin-left: 45px;
+    color: blue;
+}
+
+input#limpar{
+    font: bold 22pt Avenir LT Std;
+    cursor: pointer;
+    margin-left: 45px;
+    color: red;
+}
+
+section#btn{
+    background-color: #1c5a68;
+    margin-left: 240px;
+    width: 110px;
+    border-radius: 10px;
+}
+
+#btn:hover {
+    background-color: #102f36;
+}

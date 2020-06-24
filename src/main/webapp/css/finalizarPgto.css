@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to top,  #a3a3a3 0, #a3a3a3 95%, #1f4a54 8%);
+    background-repeat: no-repeat;
+    height: 1080px;
+}
+
+h1{
+    text-align: center;
+    top: 250px;
+    color: #242121;
+    margin-top: 42px;
+    text-align: justify;
+}
+
+.titulo{
+    width: auto;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 720px;
+    font: bold 14pt Avenir LT Std;
+}
+
+.forma-pagamento{
+    background-color: white;
+    padding: 40px;
+    height: 107px;
+    width: 500px;
+    margin: auto;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+a{
+    font: bold 17pt Avenir LT Std;
+    margin-left: 150px;
+    padding: 20px;
+    position: absolute;
+}
+
+label{
+    font: bold 14pt Avenir LT Std;
+    margin-left: 50px;
+}
+
+#confimPgt{
+    font: bold 14pt Avenir LT Std;
+    margin-left: 58px;
+}
